@@ -1,0 +1,16 @@
+Total bytecount:22342
+Files list:
+--------------
+.DS_Store
+ospathutils_finished.py
+shell_start.py
+testzip.zip
+files_finished.py
+textfile.txt.bak
+newfile.txt
+shell_finished.py
+challenge3_namik.py
+challenge_solution.py
+archive.zip
+files_start.py
+ospathutils_start.py
